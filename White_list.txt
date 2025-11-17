@@ -1,1 +1,6 @@
 zalando.it
+www.zalando.it
+fastly.net
+cloudfront.net
+akamaihd.net
+edgekey.net
